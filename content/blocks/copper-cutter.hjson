@@ -1,0 +1,11 @@
+name: Copper Cutter
+description: Cut copper in order to make them into a wire.
+type: GenericCrafter
+health: 300
+outputItem: copperwire/10
+requirement: {
+    copper/30
+    lead/40
+} 
+category: production
+research: combustion-generator
