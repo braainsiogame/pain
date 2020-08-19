@@ -1,0 +1,13 @@
+name: Copper Wire
+description: Connects power.
+type: Battery
+solid: false
+consumes: {
+  powerBuffered: 1
+}
+conveyorPlacement: true
+requirements: [
+  copperwire/10
+]
+category: power
+research: copper-cutter
